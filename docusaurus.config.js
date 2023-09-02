@@ -52,12 +52,12 @@ const config = {
             title: "More",
             items: [
               {
-                label: "Main website",
+                label: "My personal website",
                 href: "https://www.tonymottaz.com",
               },
               {
-                label: "GitHub",
-                href: "https://github.com/awmottaz",
+                label: "Contribute to this site on GitHub",
+                href: "https://github.com/awmottaz/wiki",
               },
             ],
           },
