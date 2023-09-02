@@ -56,7 +56,7 @@ const config = {
                 href: "https://www.tonymottaz.com",
               },
               {
-                label: "Contribute to this site on GitHub",
+                label: "Contribute to this site or open an issue on GitHub",
                 href: "https://github.com/awmottaz/wiki",
               },
             ],
