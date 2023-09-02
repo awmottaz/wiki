@@ -12,7 +12,6 @@ const config = {
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
-  favicon: "img/favicon.ico",
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
@@ -44,10 +43,6 @@ const config = {
     ({
       navbar: {
         title: "Tony’s Wiki",
-        logo: {
-          alt: "Default Docusaurus Logo",
-          src: "img/logo.svg",
-        },
         items: [],
       },
       footer: {
