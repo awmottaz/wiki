@@ -3,7 +3,7 @@ slug: /
 sidebar_position: 1
 ---
 
-# Tony's public wiki
+# Home
 
 This is a collection of tips, quick reference, and opinions related to software engineering.
 
