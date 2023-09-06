@@ -1,8 +1,4 @@
----
-sidebar_position: 2
----
-
-# Patterns for conditional styles in styled-components
+# How to conditionally apply styles in styled-components
 
 Here I describe a few patterns for how to conditionally set styles on components using [styled-components](https://styled-components.com/). These are presented in order of preference, but each includes a brief description of the suitability of the technique to different goals.
 

@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Aborting fetch and other Promises
+# How to abort fetch and other Promises
 
 ## Aborting fetch
 

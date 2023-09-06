@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Custom JavaScript errors
+# How to create and use custom JavaScript errors
 
 Here is how to create a custom error type in JavaScript.
 

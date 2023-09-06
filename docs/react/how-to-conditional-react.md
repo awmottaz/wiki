@@ -1,8 +1,4 @@
----
-sidebar_position: 2
----
-
-# Conditional rendering in React
+# How to conditionally render in React
 
 Here is an alternative to using ternary expressions (and especially nested ternary expressions): use an IIFE with conditionals or `switch` statements.
 
